@@ -1,0 +1,4 @@
+selenium>=4.20
+beautifulsoup4>=4.12
+openpyxl>=3.1
+pyinstaller>=6.0
