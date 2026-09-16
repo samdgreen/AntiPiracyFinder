@@ -1,0 +1,5 @@
+requests
+python-whois
+pyperclip
+openpyxl
+pyinstaller
